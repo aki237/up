@@ -50,5 +50,4 @@ Hello, John!!
 ### Thoughts
 
 + Use `msgpack` for data format
-+ Modify electron framework or WebKit to work with this format natively without
-  any dirty signal interupts and data feeds.
++ Modify electron framework or WebKit to work directly with this
